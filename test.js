@@ -1,0 +1,8 @@
+function coco(
+
+) {
+
+
+
+    return "bibou"
+}
