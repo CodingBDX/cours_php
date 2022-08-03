@@ -489,3 +489,62 @@ c'est un peu particulier, si on larque le même nom et que l'on selectionne plus
 
 ---
 **in_array** permet de verifier si une valeur existe dans un tableau, il y a 2 parametres, d'abord le 1 l'element que l'on recherche dans un tableau puis en second parametre le tableau dans lequel on cherche
+
+
+--- 
+une constante se differencie d'une variablle, car elle ne change jamais, elle est appellee avec define. le nom de la constante est toujours en majuscule
+
+**pour appelle une constante il suffit d'ecrire son nom sans $**
+
+---
+## creation de fichiers, inclure
+
+Pour creer un fichier, il faut faire la function
+
+```php
+
+file_put_contents('demo.txt', 'effg');
+```
+avec 2 parametres en 1er, le nom du fichier et en second le contenu. on peut rajouter un drapeau pour dire ce qu'il doit faire quand le fichier existe, reecrire, ecraser FILE_APPEND
+
+Pour obtenir des informations sur le fichier il faut ecrire **__DIR__**, il indiquer le chemin, path
+
+Pour les separateurs selon le system d'exploitation, on peut utiliser la function DIRECTORY_SEPARATOR
+
+**dirname** pour remonter dans les dossiers
+
+**file_put_contents** exprime la taille du fichier
+
+**file_get_contents** permet de lire un fichier
+
+## masquer error ou warning
+
+pour les masquer, on peut rajouter un @ devant la function
+
+## lire un gros fichier
+
+la function file, permet de lire un fichier mais si il est trop volumineux, cela sera complique pour la memoire
+
+du coup la function fopen permet de sauvegarder le fichier mais pas de le lire. il prend 2 parametres, le nom du fichier et le mode de lecture
+
+**fgets** permet d'afficher la ligne sur lequel est le curseur
+
+pour fermer un fichier il faut le fermer **fclose** sans quoi il restera ouvert
+
+## parse csv
+
+exemple pour lire un csv et l'afficher
+
+```php
+
+foreach ($fichier as $key => $value) {
+    $lignes[$key] = explode(';', trim($value, '\:\-'));
+}
+
+foreach ($lignes as $ligne) {
+    echo $ligne[0];
+}
+?>
+
+
+```

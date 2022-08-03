@@ -1,0 +1,424 @@
+sparknom;sparkadresse1;sparkadresse2;sparkcp;sparkdescription;svillnom;svehinumimma;image;smodenom;smarqnom;icapacite;bvehielectrique;bdisponiblevehicule;geo_location;options
+Chantiers Navals (Voiture + Camion);Place du commandant Jean l'HERMINIER;;44000;"Angle rue Mazagran et Charles Brunelliere
+Chantiers navals
+	Tram ligne 1 
+ 
+	Bus ligne 11
+
+bicloo - Station n°41 chantiers navals ou n°76 place René Bouhier";Nantes;EN-349-VT;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/917b357f5f04063570b6243312e590f1;Kangoo;Renault;2;non;oui;47.20899,-1.56854;
+Arche Sèche;20 rue de l’Arche Sèche;;44000;"20 Rue de l'Arche Sèche
+
+	TAN : Arrêt Place du Cirque (Tram ligne 2, Chronobus lignes C1, C2 et C6, Bus ligne 11)
+	BICLOO : Station n°6 Place du Cirque ou n°8 Boucherie";Nantes;DZ-660-WH;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/91497f428a9738a89c90fc58f4653c3d;Clio IV;Renault;5;non;oui;47.21746,-1.55764;Siège Bébé
+Anatole France;39 rue Alexandre Dumas;;44000;"A côté de l'arrêt de bus, en face de la station Bicloo 
+ 
+	Tan - Arret Anatole France 
+ 
+	Bus lignes 26 et 54 
+ 
+	Chronobus ligne C6 
+ 
+	Bicloo - station 87 Anatole France";Nantes;EG-961-RS;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/b143f32e31df26816c72037909f798b7;Clio IV;Renault;5;non;oui;47.2236,-1.5717;"Siège Bébé;Réhausseur"
+Cio;2 rue de Mayence;;44000;"2 rue de Mayence
+	Devant le restaurant Le Café du Marché 
+ 
+	TAN : Arrêt Cité Internationale des Congrès (Busway ligne 4)
+
+BICLOO : Station n°54 Cité Internationale des Congrès";Nantes;FK-293-YC;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/8d2cdc868b3879e9747c2a08cde0b585;Twingo 3;Renault;5;non;oui;47.2126,-1.54621;Bluetooth
+Bretagne;2 place Bretagne;;44000;"Devant le bâtiment de la CARSAT
+
+TAN - Tram ligne 3
+	Arrêt Jean Jaurès ou Bretagne
+
+Bicloo - Station n°13 Bretagne Sud";Nantes;EA-652-FM;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/4f1354201d0b728b28850a61dd93ab71;Twingo 3;Renault;4;non;oui;47.21744,-1.55961;Réhausseur
+Baco;5 Chaussée de la madeleine;Nantes;44000;"3 chaussée de la madeleine 
+ 
+	TAN: Tramway ligne 2 et 3 
+ 
+	         Chronobus: C2 et C3 
+ 
+	          Ligne aéroport";Nantes;DZ-339-VJ;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/f1cc7882fc620233c6ea6ee79aa33753;Clio IV;Renault;5;non;oui;47.21194,-1.5522;Réhausseur
+Hauts Pavés;85 rue des Hauts Pavés;;44000;"TAN - Arrêt Félix Faure
+	Tram ligne 3 
+ 
+	Bus: Proche ligne 26 
+ 
+	BICLOO - Station n°86";Nantes;FZ-692-LR;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/a108328dec9a78731cf4e6a24d523899;Clio V Hybride Automatique;Renault;5;non;oui;47.22552,-1.56758;Bluetooth
+Chantiers Navals (Voiture + Camion);Place du commandant Jean l'HERMINIER;;44000;"Angle rue Mazagran et Charles Brunelliere
+
+TAN - Arrêt Chantiers navals
+	Tram ligne 1 
+ 
+	Bus ligne 11
+
+bicloo - Station n°41 chantiers navals ou n°76 place René Bouhier";Nantes;EV-146-ZS;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/4fca6ce4c9e2e8d767fd3b93f550f327;208;Peugeot;5;non;oui;47.20899,-1.56854;
+Beaulieu;2 rue Gaëtan Rondeau;;44200;"Devant France 3 Pays de la Loire et URSSAF 
+ 
+	TAN - Arrêt Conservatoire ou Galarne
+Bus ligne 26 
+Chronobus ligne C5
+Proche Busway ligne 4
+bicloo - Station n°82 - Sébilleau";Nantes;DN-856-BX;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/5cb3ca267ffcf839a090fdcdff79bca0;Twingo 3;Renault;4;non;oui;47.2078,-1.53119;Siège Bébé
+Hôtel De Ville (Voiture + Camion);Place de l'hotel de Ville;;44000;"A l'angle de la rue du Général Leclerc
+	de hauteclocque
+
+TAN - Arrêt Hôtel de Ville
+	Bus lignes 11 et 12
+	Chronobus lignes C1 et C6
+
+bicloo - Station n°2 Hotel de Ville ou n°4 Moulin";Nantes;FB-737-WQ;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/08c7c68757384361851a4ece94d6dc3f;Kangoo;Renault;2;non;non;47.21773,-1.55415;Bluetooth
+Clos Toreau;31 boulevard Emile Gabory;;44200;"31 boulevard Emile Gabory, en face du Super U 
+ 
+	Busway ligne 4 arrêt Clos Toreau";Nantes;EG-440-KX;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/1e0a1980018fd8d91768e71a7a00da58;Clio IV;Renault;5;non;oui;47.19383,-1.52837;Réhausseur
+Canclaux;10 Place Canclaux;;44000;"Entre la rue de la Ville en Bois et le boulevard Langevin
+
+TAN - Arrêt Canclaux
+	Bus lignes 23
+	Chronobus lignes C1 et C3
+
+bicloo - Station n°74 Canclaux";Nantes;EG-644-KY;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/679d9c5d9b8ba6ad879f14c43283ab52;Clio IV;Renault;5;non;non;47.21412,-1.57484;"Bluetooth;Siège Bébé;Réhausseur"
+Olivettes;4, rue des Olivettes;;44000;"TAN - arrêt Aimé Delrue 
+ 
+	Tram lignes 2 et 3 
+ 
+	Bus ligne n°54 
+ 
+	Chronobus ligne C2 et C3 
+ 
+	  
+ 
+	Bicloo - Station n° 53 - Olivettes";Nantes;FZ-366-HG;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/18d4809f9740a3bfafbfa9471f3a5453;Clio V Hybride Automatique;Renault;2;non;oui;47.21209,-1.55012;Bluetooth
+Commerce;3 Allée de l'Île Gloriette;;44000;"Proche du Tribunal administratif, face au bar l'Engrenage 
+ 
+	 
+TAN - Arrêt Commerce
+	Tram lignes 1, 2 et 3 
+ 
+	Bus ligne 26
+
+bicloo - Station n°30 Commerce
+	ou Station n°37 Feydeau";Nantes;DZ-017-VH;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/fec1eca72e960dbc00f9681abb2f6589;Twingo 3;Renault;4;non;oui;47.21115,-1.55678;
+Cathédrale;11 Rue St Pierre;;44000;"Entre la pharmacie de Verdun et le restaurant ""La Ciboulette"" 
+ 
+	Proche station Bicloo n°48 
+ 
+	TAN: Arrêt St Pierre (ligne C1 - C6 - 11 - 12)";Nantes;DN-993-FA;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/b8132e67956addb884edb8d75119e0cd;Twingo 3;Renault;4;non;oui;47.21757,-1.5515;Réhausseur
+Petit Port;115 boulevard Michelet;;44000;"115 boulevard Michelet 
+	Devant le magasin SPAR
+
+	TAN : Arrêt Morhonnière- Petit Port (Tram ligne 2, Bus 26)
+	BICLOO : Station n°94 Boulevard du Petit Port";Nantes;EV-291-HT;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/ae7f5fbca406b353d0350a37706bc1e3;208;Peugeot;5;non;oui;47.24046,-1.55701;Siège Bébé
+Dalby;96 boulevard Ernest Dalby;;44000;"- TAN - Arrêt Marcel Hatet 
+ 
+	Bus ligne 11 et 12  
+ 
+	Tram ligne 1 (arrêt Moutonnerie) 
+ 
+	
+bicloo - Station n°25 Dalby";Nantes;EG-736-KX;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/8969c0421c520deacd74f9a89c337aa0;Clio IV;Renault;5;non;oui;47.22244,-1.53094;Bluetooth
+Cinquante Otages;1 rue Le Nôtre;;44000;"TAN - Arrêt 50 Otages
+	Tram ligne 2
+	Bus lignes 12 et 23
+	Chronobus ligne C2
+
+bicloo - Station n°5 Brossard";Nantes;EG-052-KX;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/cfaed007891674ccf71fc72c23612bd9;Clio IV;Renault;5;non;oui;47.21926,-1.557;
+Pirmil;25 rue Esnoul des Châtelets;;44200;"25 rue Esnoul des Châtelets 
+ 
+	44 200 NANTES 
+ 
+	Devant la fontaine de Pirmil 
+ 
+	Tan : arrêt Pirmil (Tram lignes 2 et 3, Bus lignes 27, 28, 36, 42 et 98) 
+ 
+	         Chronobus C4, C9 et E8 
+ 
+	Bicloo : Station n°101 - Pirmil";Nantes;EV-210-ZS;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/ec13f031b2b740c7ff2d6a9dd221fedf;208;Peugeot;5;non;oui;47.19648,-1.5416;
+Gigant;A l’angle de la rue de Gigant et de la rue Huchette;;44000;"A l’angle de la rue de Gigant et de la rue Huchette 
+ 
+	TAN :
+	Arrêt Edit de Nantes (Chronobus lignes C1 et C3, Bus ligne 23) 
+ 
+	Bicloo :
+	Station n°28 Place de L'Edit de Nantes";Nantes;FL-195-WJ;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/c5b9f4241ae62fbfa0017cbbc3ffe337;208;Peugeot;5;non;oui;47.2143,-1.56914;Réhausseur
+Cio;2 rue de Mayence;;44000;"2 rue de Mayence
+	Devant le restaurant Le Café du Marché 
+ 
+	TAN : Arrêt Cité Internationale des Congrès (Busway ligne 4)
+
+BICLOO : Station n°54 Cité Internationale des Congrès";Nantes;FM-442-RX;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/8b407f148a0caa1554402f65de8f36a4;New 208;Peugeot;5;non;oui;47.2126,-1.54621;"Bluetooth;Siège Bébé"
+Place De La Bourse;Allée de la Bourse;;44000;"Allée de la Bourse
+	A l'angle de la rue Jean-Jacques Rousseau 
+ 
+	TAN 
+	Arrêt Commerce (Tram ligne 1, Chronobus ligne C2, Bus lignes 11, 26, 54 et navette aéroport) 
+ 
+	Arrêt Médiathèque (Tram ligne 1) 
+ 
+	BICLOO 
+ 
+	Station n°31 Bourse";Nantes;EG-504-KY;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/90780f97d982871991e6bdbeeb39f3e8;Clio IV;Renault;5;non;oui;47.21208,-1.55902;"Bluetooth;Siège Bébé;Réhausseur"
+Jean Macé;15 Boulevard de la Liberté;;44000;"15 Boulevard de la Liberté 
+ 
+	Au croisement de la rue de la Tannerie et du chemin Pressoir Chênaie 
+ 
+	TAN - Arrêt Liberté ( Bus Lignes E1, C1, 10 et 81 ) 
+ 
+	Renault Twingo Essence";Nantes;DV-259-TF;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/c6cda3f2b0d576b073b9394c5d23a6dd;Twingo 3;Renault;4;non;non;47.19872,-1.58878;Réhausseur
+Désiré Colombe;11 rue Arsène Leloup;;44000;"11 Rue Arsène Leloup 
+ 
+	Au croisement de la rue Désiré Colombe 
+ 
+	  
+ 
+	TAN : Arrêt Sanitat (de la ligne 11)
+	BICLOO : vers la station n°12 Lamoricière";Nantes;EV-150-ZS;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/122c78f17965a08d292d97ea1b168ca6;208;Peugeot;5;non;oui;47.2117,-1.56931;
+Quai De Versailles;38 Quai de Versailles;;44000;"Face à l'agence AXA assurance 
+ 
+	Tan - arrêt Motte rouge ou Saint-Mihiel 
+ 
+	Tram Ligne 2 
+ 
+	  
+ 
+	Bicloo - Station n° 24 Quai de Versailles";Nantes;FZ-854-DZ;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/13950d1a96d9f36ed26d9f9ea3069ccb;Clio V Hybride Automatique;Renault;2;non;oui;47.22672,-1.55571;"Bluetooth;Réhausseur"
+Ladmirault;Place Paul Emile Ladmirault;;44000;"Véhicule  5 place de la monnaie 
+ 
+	Place Paul Emile Ladmirault 
+ 
+	
+TAN - Arrêt Copernic
+	Bus ligne 23
+	Chronobus lignes C1 et C3
+
+bicloo - Station n°33 Racine";Nantes;EW-789-ZK;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/a089235430259183a8165aded30eba5a;208;Peugeot;5;non;oui;47.21377,-1.56432;Réhausseur
+Edouard Normand;5, place Edouard Normand;;44000;"5, place Edouard Normand 
+ 
+	Tan : arrêt Jean Jaurès (ligne 3) 
+ 
+	Bicloo : station n° 16 place Edouard Normand";Nantes;DW-950-TA;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/e36dd08927b29634b58fdd046b140d81;Clio IV;Renault;5;non;oui;47.21885,-1.56287;Réhausseur
+Saint Jacques;112/118 rue Saint Jacques;;44200;"Adresse : 112/118 rue Saint Jacques, à côté de l'entrée de l'hopital 
+ 
+	TAN : Arrêt Saint jacques (Bus ligne 42) 
+ 
+	Bicloo : Station n° 99 Hopital Saint Jacques";Nantes;DR-895-CP;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/85c701f5383ca2bb128d429be8b807d5;Twingo 3;Renault;4;non;oui;47.19588,-1.53688;Réhausseur
+Ladmirault;Place Paul Emile Ladmirault;;44000;"Véhicule  5 place de la monnaie 
+ 
+	Place Paul Emile Ladmirault 
+ 
+	
+TAN - Arrêt Copernic
+	Bus ligne 23
+	Chronobus lignes C1 et C3
+
+bicloo - Station n°33 Racine";Nantes;EG-650-KY;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/d9a8628456091b53ce706a13d06ac6a4;Clio IV;Renault;5;non;oui;47.21377,-1.56432;Siège Bébé
+Gare Sud;Quai de Malakoff;;44000;"Le long du Canal Saint-Félix
+	Face à la Rue des Remorqueurs
+
+TAN - Arrêt Gare SNCF
+	Chronobus lignes C2, C3 et C5
+	Navette Aéroport
+
+bicloo - Station n°60 Gare sud";Nantes;DV-308-TG;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/969e1c3886de9f3aa8e221c24c4e9fba;Twingo 3;Renault;4;non;oui;47.21496,-1.54189;
+Souillarderie;201 Route de Sainte Luce;;44300;"En face du Super U Nantes Chénaie et de la boulangerie Sésame 
+ 
+	Tan Tramway Ligne 1 Arrêt Souillarderie, Chronobus Ligne C7 Arrêt Cousteau";Nantes;FW-838-ND;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/8a211ec8bd569513b005addb583d4d11;Clio V Hybride Automatique;Renault;5;non;oui;47.23866,-1.51464;Bluetooth
+Lamoricière;15 rue Lamoricière;;44100;"15 rue Lamoricière
+	Au niveau de l'entrée de l'école IFAG 
+ 
+	TAN :
+	Arrêt Lamoricière (Chronobus lignes C1 et C3, Bus ligne 23) 
+ 
+	Arrêt René Bouhier (Bus ligne 11) 
+ 
+	BICLOO : 
+ 
+	Station n°75 Lamoricière";Nantes;EG-326-KX;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/567bab5a0c3f007ac0d9057ee15abd4d;Clio IV;Renault;5;non;oui;47.21222,-1.57167;Réhausseur x2
+Haluchère;Rue du Ranzay;;44300;"TAN - Arrêt Haluchère  
+ 
+	Bus ligne 23,77,85,95
+	Tram ligne 1
+	Chronobus ligne C1";Nantes;FZ-886-HJ;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/f87e09ff6fc18d4d9f2934abd17f0a10;Clio V Hybride Automatique;Renault;5;non;non;47.24841,-1.5222;Bluetooth
+Vieux Doulon;5 Boulevard du Manoir Saint-Lô;;44300;"A côté de l'arrêt de bus, en face de la Caisse d'Epargne Vieux Doulon 
+ 
+	Tan - Arrêt Vieux Doulon 
+ 
+	Bus lignes 12 et 87";Nantes;FZ-925-DZ;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/abc1acec2ef95b7e693c4305068799f5;Clio V Hybride Automatique;Renault;5;non;oui;47.23558,-1.50426;Bluetooth
+Manufacture;11 Boulevard Stalingrad;;44000;"Face à la Manufacture des tabacs
+
+TAN - Arrêt Manufacture
+	Tram ligne 1
+
+
+bicloo - Station n°69 Manufacture";Nantes;EG-824-KW;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/9a1b60aaa3d79ec25d2dac1f96293b8a;Clio IV;Renault;5;non;oui;47.21905,-1.53615;
+Hôtel De Ville (Voiture + Camion);Place de l'hotel de Ville;;44000;"A l'angle de la rue du Général Leclerc
+	de hauteclocque
+
+TAN - Arrêt Hôtel de Ville
+	Bus lignes 11 et 12
+	Chronobus lignes C1 et C6
+
+bicloo - Station n°2 Hotel de Ville ou n°4 Moulin";Nantes;EW-925-CD;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/ffda9ba429116fcd768b09e0139d5b15;208;Peugeot;5;non;non;47.21773,-1.55415;Bluetooth
+Zola (Voiture + Camion);110 boulevard de l'Egalité;;44000;"En face de Monceau Fleurs
+
+TAN - Arrêt Zola
+	Bus lignes 10,11 et 23";Nantes;FA-693-KH;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/6c3da93d8c2e95dc251cf9b6163ca0f1;Kangoo;Renault;2;non;non;47.21297,-1.58613;
+Picasso;9 mail Pablo Picasso;;44000;"9 mail Pablo Picasso
+	Devant le restaurant B Chef
+
+	TAN : Arrêt Picasso (Chronobus lignes C3 et C5)
+	BICLOO : Station n°10 Picasso";Nantes;DZ-168-YE;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/abdbe0e6aec95678c55ac2148c99fbf8;Twingo 3;Renault;4;non;oui;47.2161,-1.53448;Siège Bébé
+Longchamp;83 Route de Vannes;;44100;"83 Route de Vannes 
+
+	TAN : Arrêt Longchamp (Tram ligne 3) 
+ 
+	A quelques centaines de mètres de la station Beauséjour (Tram ligne 3, Bus ligne 12,C20, 59, 79, 89 et 96) 
+ 
+	BICLOO : Station la plus proche n°91 au Rond-Point de Vannes";Nantes;EG-910-KX;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/eb1f3f6be15a74ac6542d0fdced3dac0;Clio IV;Renault;5;non;oui;47.23555,-1.58357;"Siège Bébé;Réhausseur"
+Procé;3 boulevard Paul Chabas;;44100;"3 boulevard Paul Chabas  
+ 
+	Proche rond point Poincaré 
+ 
+	  
+ 
+	Tan:  Arrêt Poincaré ligne C3, C6 et 10";Nantes;EW-655-ZJ;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/27418af287cd120cbf70d1148c2a27eb;208;Peugeot;5;non;oui;47.2221,-1.58611;"Bluetooth;Siège Bébé;Réhausseur"
+Machines De L'île;42 rue de la Tour d'Auvergne;;44200;"42 rue de la Tour d'Auvergne 
+ 
+	Au pied d'Atlanbois 
+ 
+	Tan : arrêt Chantiers Navals (ligne 1), Chronobus C5 arrêt Prairie au Duc 
+ 
+	Bicloo : station n° 43, Machines de l'île";Nantes;EW-685-CC;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/93b5d1ce634ef741fd59459157052b51;208;Peugeot;5;non;oui;47.20564,-1.56312;
+Recteur Schmitt;Rue Recteur Schmitt;Parking P+R;44300;"TAN - Arrêt Recteur Schmitt 
+ 
+	Bus lignes 26 - 66 -75 - 80 - E5
+
+	Tram ligne 2";Nantes;FX-659-TB;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/a72fc1c6e57e232fc0004b98aefa0da8;Clio V Hybride Automatique;Renault;5;non;oui;47.25201,-1.55259;Bluetooth
+Manufacture;11 Boulevard Stalingrad;;44000;"Face à la Manufacture des tabacs
+
+TAN - Arrêt Manufacture
+	Tram ligne 1
+
+
+bicloo - Station n°69 Manufacture";Nantes;EG-415-KY;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/41122f949bde033ad9a00711029305af;Clio IV;Renault;5;non;oui;47.21905,-1.53615;
+Rond-Point De Rennes;6 Boulevard LELASSEUR;;44000;"6 Boulevard LELASSEUR 
+ 
+	En face de l'agence Banque Populaire Atlantique 
+ 
+	- tan : Arrêt Rond-Point de Rennes (Bus lignes 10, 12, 23, 26 et Chronobus ligne C2) 
+ 
+	- bicloo : Station n° 92 Rond-Point Rennes";Nantes;EG-460-KX;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/ff60033b1e0a84d622f42f742fd59ddb;Clio IV;Renault;5;non;oui;47.23305,-1.5662;"Siège Bébé;Réhausseur"
+Place Mangin;Entre bd des Martyrs et bld Victor Hugo;;44000;"TAN - Arrêt Mangin
+	Tram lignes 2 et 3
+	Bus ligne 26
+
+bicloo - Station n°81 Mangin";Nantes;EV-011-ZS;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/14989dcff872b49bbff0b227453ad714;208;Peugeot;5;non;oui;47.20088,-1.54487;Réhausseur
+Saint Clément;37 Rue Maréchal Joffre;;44000;"37 Rue Maréchal Joffre 
+ 
+	Devant le Musée des Sapeurs-Pompier de Loire-Atlantique 
+ 
+	Arrêts TAN :
+	Arrêt Trébuchet (Chronobus ligne C1, Bus lignes 11 et 12)
+	Arrêt St-Clément (Chronobus ligne C1) 
+ 
+	Arrêt bicloo :
+	Station n°64 Saint-Clément";Nantes;DV-513-YP;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/a586e98ffba09576c88b9dd3ccd78b47;Twingo 3;Renault;4;non;oui;47.222,-1.54682;
+Place Mangin;Entre bd des Martyrs et bld Victor Hugo;;44000;"TAN - Arrêt Mangin
+	Tram lignes 2 et 3
+	Bus ligne 26
+
+bicloo - Station n°81 Mangin";Nantes;FY-917-SA;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/c5263810699b031d578a9e54a8f77095;Clio V Hybride Automatique;Renault;2;non;oui;47.20088,-1.54487;Bluetooth
+Saint Donatien;Place du 51ème Régiment d'Artillerie;;44000;"Place du 51ème Régiment d'Artillerie 
+ 
+	A côté du magasin Picard 
+ 
+	- Tan : Arrêt St-Donatien Ligne : chronobus ligne C1 
+ 
+	- Bicloo - station n°97 Saint-Donatien";Nantes;EV-256-HT;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/46d35b5bc731ac71749e8062fd610397;208;Peugeot;5;non;oui;47.2287,-1.54005;Siège Bébé
+République;5 Place de la République;;44200;"5 place de la République
+	A côté du restaurant Côté Jardin 
+ 
+	TAN : 
+ 
+	Arrêt République (Chronobus ligne C5, Bus ligne 26) 
+ 
+	BICLOO : 
+ 
+	Station n°46 Place République";Nantes;EG-511-KY;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/bc0d441e9242204a143e50c9c49db8c3;Clio IV;Renault;5;non;non;47.20508,-1.55515;"Siège Bébé;Réhausseur"
+Talensac;6 rue Talensac;;44000;"6 rue Talensac, Devant l'entrée du magasin Weldom 
+ 
+	Arrêts TAN : 
+ 
+	- Talensac chronobus ligne C2 + bus lignes 12 et 23 
+ 
+	- 50 Otages tram ligne 2 
+ 
+	Station bicloo : numéro 21 Marché Talensac Sud";Nantes;EV-372-HW;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/2f66f7053cdf8c10df9f47adab94e952;208;Peugeot;5;non;oui;47.22141,-1.55654;Siège Bébé
+Rond-Point De Paris;10/12 Boulevard Jules-Verne;;44000;"10/12 Boulevard Jules Verne
+	En face du carrefour city
+	  
+ 
+	TAN - Arrêt rond point de Paris
+	Chrono Bus ligne C1
+	Bus lignes 10 
+ 
+	  
+ 
+	Bicloo - station n°97 Saint Donatien";Nantes;EV-115-ZS;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/28c1a6c06e1c4df7fda704571ff76765;208;Peugeot;5;non;non;47.2348,-1.53488;Bluetooth
+Tortière;5 Rue Félix Lemoine;;44300;"A côté de la Boucherie du Sarthois 
+ 
+	Tan - Arrêt Lemoine 
+ 
+	Bus lignes 10 et 23";Nantes;FW-888-ND;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/f72dd89515aa35d4e33f4ebe0a80d353;Clio V Hybride Automatique;Renault;5;non;oui;47.23594,-1.54673;"Bluetooth;Réhausseur"
+Saint Mihiel;27 Rue Chateaubriand;;44000;"TAN - Arrêt St Mihiel  
+ 
+	Chronobus ligne C2 et C6
+	Bus lignes 12 et 23
+	Arrêt St Mihiel
+	Tram ligne 2
+
+bicloo - Station n°65
+	Cours Sully";Nantes;EG-280-KX;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/785386204f2b3cbb051ffbfb95916ffe;Clio IV;Renault;5;non;non;47.22264,-1.55378;
+Vincent Gâche (Voiture + Camion);30 Boulevard Vincent Gache;;44200;"TAN - Arrêt Vincent Gache
+	Tram lignes 2 et 3
+	Chronobus ligne C5 
+ 
+	Navette aéroport 
+ 
+	Bicloo Station n°47 Martyrs Nantais";Nantes;FA-100-KJ;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/d5904e121529521c401941d5fc9a8f0c;Kangoo;Renault;2;non;oui;47.20598,-1.54724;Bluetooth
+Sainte Anne;1 Place Charles Lechat;;44000;"Place Charles Lechat 
+ 
+	TAN - Arrêt Place Lechat 
+ 
+	Chronobus ligne C1 
+ 
+	bicloo - station Saint Aignan n°89";Nantes;FL-141-WJ;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/9da22083cf231a3332a5c9a1133db31f;208;Peugeot;5;non;oui;47.20392,-1.58111;
+Sainte Thérèse;Place de l'église Ste Thérèse;Tan : Arrêt Alexandre Vincent Sainte-Thérèse (Tram ligne 3);44000;"Entre le bd Boulay Paty et la rue de la Prime 
+ 
+	Devant l'entrée de 'l'église rouge'
+
+TAN - Arrêt Alexandre Vincent Sainte-Thérèse
+	Tram ligne 3";Nantes;EW-440-CD;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/a9e210f09c316d4ad9b587a196fddbce;208;Peugeot;5;non;oui;47.23232,-1.57715;"Siège Bébé;Réhausseur"
+Toutes-Aides;3 place Gabriel Trarieux;;44300;"3 place Gabriel Trarieux 
+ 
+	Au niveau du rond point face au C.R.E.P.S 
+ 
+	  
+ 
+	TAN: Arrêt Toutes Aides ligne 10, 12 et 87 
+ 
+	Bicloo: Station n°123 Trarieux";Nantes;EV-110-HW;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/87a161d6e86b317efb0a370f3f5e0e27;208;Peugeot;5;non;non;47.2263,-1.52214;Siège Bébé
+Tripode;Boulevard Général de Gaulle;;44000;"Boulevard du Général de Gaulle (en face de la rue Konrad Adenauer) 
+ 
+	- Tan : Arrêt de Busway (ligne 4) Tripode 
+ 
+	- Bicloo - Station n°78 De Gaulle";Nantes;EG-894-RS;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/7f369f01ff90642926c0695190f427a0;Clio IV;Renault;5;non;oui;47.20735,-1.54016;
+Viarme;22 place Viarme;;44000;"22 place viarme
+	En face de la boulangerie Clémentalice 
+ 
+	Arrêt TAN Viarme - Talensac Tram ligne 3 
+ 
+	Station Bicloo n°18 Place Viarme";Nantes;EG-698-KW;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/aa5cb34103700266ee6b2cb6eb5f79ba;Clio IV;Renault;5;non;oui;47.2216,-1.56328;Siège Bébé
+Zola (Voiture + Camion);110 boulevard de l'Egalité;;44000;"En face de Monceau Fleurs
+
+TAN - Arrêt Zola
+	Bus lignes 10,11 et 23";Nantes;EV-446-HT;https://data.nantesmetropole.fr/api/v2/catalog/datasets/244400404_stations-marguerite-nantes-metropole-disponibilites/files/10212d698293e590937138f103686644;208;Peugeot;5;non;non;47.21297,-1.58613;Réhausseur
