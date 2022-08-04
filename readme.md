@@ -548,3 +548,111 @@ foreach ($lignes as $ligne) {
 
 
 ```
+
+## les cookies
+ils permettent de sauvegarder une quantite d'informations dans le navigateur de l'utilisateur
+
+pour installer un cookie, il faut utiliser la function **setcookie**
+ils prends plusieurs parametres, en 3eme position, on peut indiquer le temps avec time() et pour qu'il dure la journee time() + 60 * 60 * 24.
+il y a d'autres options,voir doc php.net
+
+**recuperer information utilisateur**, tout simplement avec la variable __COOKIE
+
+il ne faut avoir aucun ecart et mettre la variable au debut de fichier
+
+pour vider un cookie ou variable, on peut utiliser unset
+
+```php
+if(!empty(_GET['action]) || _GET['action'] === 'deconnecter') {
+    unset(_COOKIE['utilisateur']);
+}
+
+```
+
+cela ne suffit pas, il faut installer une valeur dans le passe
+
+```php
+setcookie('utilisateur', '', time() - 60);
+
+```
+
+pour sauvegarder un tableau dans une chaine de caractere string, il faut utiliser la methode serialize et unserialize ..dans un cookie pour un tableau cela donne
+
+```php
+setcookie('utilisateur', serialize($array));
+
+```
+
+---
+pour verifier un age
+
+```php
+$age = null;
+if (!empty($_POST['birthday'])) {
+    setcookie('birthday', $_POST['birthday']);
+}
+
+if (!empty($_COOKIE['birthday'])) {
+    $anniversaire = (int) $_COOKIE['birthday'];
+    $age = (int) date('Y') - $anniversaire;
+}
+
+
+```
+
+d'abord on verifie que le cookie existe et que ça valeur n'est pas vide, on recupere la valeur $_POST
+ensuite pour verifier sa majorite on fait la valeur du cookie moins la date d'aujourd'hui est on mets le type a  date (un entier)
+
+```php
+      <?php if ($age && $age >= 18) { ?>
+       <h1>vous etes majeur $age an</h1>
+       <?php } else { ?>
+  <form action="" method="post">
+<select name="birthday" id="birthday">
+<?php for ($i = 2010; $i > 1910; --$i) { ?>
+        
+        <option value="<?php echo $i; ?>"><?php echo $i;
+    ?></option>
+        <?php } ?>
+
+</select>
+<button type="submit">soumettre</button>
+        </form>
+      
+                <?php } ?>
+
+
+```
+
+ici donc on verifie si la date depasse ou est egal a 18 et on affiche un message
+
+les cookies servent a enregistrer des informations non essentielles.
+
+## les sessions
+une session, aucun utilisateur ne peu modifier les informations dedans
+
+il faut toujours le mettre au debut, car il modifie les en-tête (header) de la page
+pour la lancer
+session_start() puis on peut appeler la variable global $_SESSION[];
+cette fonction marche comme un tableau
+
+```php
+session_start();
+$_SESSION['role'] = 'administrator';
+```
+
+pour recuperer on fait la même chose
+pour supprimer on fait comme avec les cookies
+
+```php
+unset($_SESSION['role']);
+```
+comme c'est un tableau, on peut rentrer plusieurs informations
+
+```php
+$_SESSION['user'] = [
+    'username' => 'john',
+    'age' => 23,
+    'dentist' => 'eric'
+]
+```
